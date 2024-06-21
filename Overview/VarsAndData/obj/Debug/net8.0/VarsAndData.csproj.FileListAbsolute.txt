@@ -1,0 +1,14 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/bin/Debug/net8.0/VarsAndData
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/bin/Debug/net8.0/VarsAndData.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/bin/Debug/net8.0/VarsAndData.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/bin/Debug/net8.0/VarsAndData.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/bin/Debug/net8.0/VarsAndData.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net8.0/refint/VarsAndData.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net8.0/ref/VarsAndData.dll

@@ -1,0 +1,14 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

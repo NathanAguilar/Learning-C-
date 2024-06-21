@@ -1,0 +1,14 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/refint/Operators.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/ref/Operators.dll

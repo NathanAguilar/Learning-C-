@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net8.0/Comments
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net8.0/Comments.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net8.0/Comments.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net8.0/Comments.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net8.0/Comments.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net8.0/Comments.xml
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net8.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net8.0/Comments.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net8.0/Comments.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net8.0/Comments.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net8.0/Comments.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net8.0/refint/Comments.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net8.0/Comments.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net8.0/Comments.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net8.0/ref/Comments.dll
