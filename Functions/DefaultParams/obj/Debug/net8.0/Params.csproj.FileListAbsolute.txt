@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/bin/Debug/net8.0/Params
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/bin/Debug/net8.0/Params.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/bin/Debug/net8.0/Params.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/bin/Debug/net8.0/Params.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/bin/Debug/net8.0/Params.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/obj/Debug/net8.0/Params.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/obj/Debug/net8.0/Params.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/obj/Debug/net8.0/Params.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/obj/Debug/net8.0/Params.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/obj/Debug/net8.0/Params.sourcelink.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/obj/Debug/net8.0/Params.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/obj/Debug/net8.0/refint/Params.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/obj/Debug/net8.0/Params.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/obj/Debug/net8.0/Params.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Functions/DefaultParams/obj/Debug/net8.0/ref/Params.dll
