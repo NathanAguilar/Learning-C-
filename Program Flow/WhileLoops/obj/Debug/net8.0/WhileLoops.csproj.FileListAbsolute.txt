@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/bin/Debug/net8.0/WhileLoops
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/bin/Debug/net8.0/WhileLoops.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/bin/Debug/net8.0/WhileLoops.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/bin/Debug/net8.0/WhileLoops.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/bin/Debug/net8.0/WhileLoops.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/obj/Debug/net8.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/obj/Debug/net8.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/obj/Debug/net8.0/WhileLoops.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/obj/Debug/net8.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/obj/Debug/net8.0/WhileLoops.sourcelink.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/obj/Debug/net8.0/WhileLoops.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/obj/Debug/net8.0/refint/WhileLoops.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/obj/Debug/net8.0/WhileLoops.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/obj/Debug/net8.0/WhileLoops.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/WhileLoops/obj/Debug/net8.0/ref/WhileLoops.dll

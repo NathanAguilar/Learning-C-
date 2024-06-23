@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/bin/Debug/net8.0/ForLoops
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/bin/Debug/net8.0/ForLoops.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/bin/Debug/net8.0/ForLoops.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/bin/Debug/net8.0/ForLoops.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/bin/Debug/net8.0/ForLoops.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.sourcelink.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net8.0/refint/ForLoops.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net8.0/ForLoops.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net8.0/ref/ForLoops.dll

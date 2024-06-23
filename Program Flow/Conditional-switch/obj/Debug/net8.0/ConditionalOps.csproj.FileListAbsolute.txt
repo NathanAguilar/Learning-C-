@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/bin/Debug/net8.0/ConditionalOps
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/bin/Debug/net8.0/ConditionalOps.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/bin/Debug/net8.0/ConditionalOps.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/bin/Debug/net8.0/ConditionalOps.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/bin/Debug/net8.0/ConditionalOps.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.sourcelink.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/refint/ConditionalOps.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ConditionalOps.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/obj/Debug/net8.0/ref/ConditionalOps.dll

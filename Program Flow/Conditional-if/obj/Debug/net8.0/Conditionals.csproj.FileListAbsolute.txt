@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/bin/Debug/net8.0/Conditionals
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/bin/Debug/net8.0/Conditionals.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/bin/Debug/net8.0/Conditionals.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/bin/Debug/net8.0/Conditionals.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/bin/Debug/net8.0/Conditionals.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.sourcelink.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net8.0/refint/Conditionals.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net8.0/Conditionals.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net8.0/ref/Conditionals.dll
