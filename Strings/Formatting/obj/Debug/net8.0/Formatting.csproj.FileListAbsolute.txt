@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/bin/Debug/net8.0/Formatting
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/bin/Debug/net8.0/Formatting.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/bin/Debug/net8.0/Formatting.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/bin/Debug/net8.0/Formatting.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/bin/Debug/net8.0/Formatting.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/obj/Debug/net8.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/obj/Debug/net8.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/obj/Debug/net8.0/Formatting.sourcelink.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/obj/Debug/net8.0/Formatting.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/obj/Debug/net8.0/refint/Formatting.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/obj/Debug/net8.0/Formatting.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/obj/Debug/net8.0/Formatting.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Formatting/obj/Debug/net8.0/ref/Formatting.dll

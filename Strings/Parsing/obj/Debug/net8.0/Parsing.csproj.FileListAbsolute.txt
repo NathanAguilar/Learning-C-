@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.sourcelink.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/bin/Debug/net8.0/Parsing
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/bin/Debug/net8.0/Parsing.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/bin/Debug/net8.0/Parsing.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/bin/Debug/net8.0/Parsing.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/bin/Debug/net8.0/Parsing.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net8.0/refint/Parsing.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net8.0/Parsing.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net8.0/ref/Parsing.dll

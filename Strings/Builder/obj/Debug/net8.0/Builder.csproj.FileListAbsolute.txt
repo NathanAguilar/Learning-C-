@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/bin/Debug/net8.0/Builder
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/bin/Debug/net8.0/Builder.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/bin/Debug/net8.0/Builder.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/bin/Debug/net8.0/Builder.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/bin/Debug/net8.0/Builder.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/obj/Debug/net8.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/obj/Debug/net8.0/Builder.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/obj/Debug/net8.0/Builder.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/obj/Debug/net8.0/Builder.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/obj/Debug/net8.0/Builder.sourcelink.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/obj/Debug/net8.0/Builder.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/obj/Debug/net8.0/refint/Builder.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/obj/Debug/net8.0/Builder.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/obj/Debug/net8.0/Builder.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Builder/obj/Debug/net8.0/ref/Builder.dll

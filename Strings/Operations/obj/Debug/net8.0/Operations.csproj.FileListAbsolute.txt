@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/bin/Debug/net8.0/Operations
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/bin/Debug/net8.0/Operations.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/bin/Debug/net8.0/Operations.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/bin/Debug/net8.0/Operations.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/bin/Debug/net8.0/Operations.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/obj/Debug/net8.0/Operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/obj/Debug/net8.0/Operations.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/obj/Debug/net8.0/Operations.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/obj/Debug/net8.0/Operations.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/obj/Debug/net8.0/Operations.sourcelink.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/obj/Debug/net8.0/Operations.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/obj/Debug/net8.0/refint/Operations.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/obj/Debug/net8.0/Operations.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/obj/Debug/net8.0/Operations.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Strings/Operations/obj/Debug/net8.0/ref/Operations.dll
