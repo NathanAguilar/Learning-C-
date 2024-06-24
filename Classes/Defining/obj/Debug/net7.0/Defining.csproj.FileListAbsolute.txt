@@ -1,0 +1,5 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.sourcelink.json

@@ -1,14 +1,10 @@
 ﻿using System;
 
 // TODO: Functions can provide default values for their parameters
-void PrintWithPrefix(string thestr, string prefix="")
+void PrintWithPrefix(string greeting ="", string name="Luke")
 {
-    Console.WriteLine($"{prefix} {thestr}");
+    Console.WriteLine($"{greeting} {name}");
 }
 
 // TODO: Test the default parameters
-PrintWithPrefix("Hello There!");
-PrintWithPrefix("Hello There!", ">: ");
-
-// TODO: Call with named params
-PrintWithPrefix(prefix: "% ", thestr: "Hello There!");
+PrintWithPrefix(name: "Candy");

@@ -18,7 +18,7 @@ namespace Parsing
             try {
                 // TODO: Use Parse to try a simple integer
                 targetNum = int.Parse(numStr1);
-                Console.WriteLine(targetNum);
+                Console.WriteLine(1);
 
                 // TODO: Use Parse to try a floating point number
                 // This only works if the decimal value is 0
