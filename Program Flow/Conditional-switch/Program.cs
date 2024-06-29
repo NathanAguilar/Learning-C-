@@ -22,7 +22,7 @@ namespace ConditionalOps
                     Console.WriteLine("theVal is between 52 and 54");
                     break;
                 default:
-                    Console.WriteLine("theVal is something else");
+                    Console.WriteLine("theVal is something else!");
                     break;
             }
         }
