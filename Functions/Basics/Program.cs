@@ -1,5 +1,6 @@
 ﻿using System;
 
+// Understanding Functions
 // Functions are used to group re-usable code together in a single
 // unit that can be customized with parameters.
 
