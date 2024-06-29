@@ -2,6 +2,7 @@ using System;
 
 namespace Defining
 {
+    // Understand the basics of Classes
     // classes have a name, unique within the namespace
     public class Book
     {
