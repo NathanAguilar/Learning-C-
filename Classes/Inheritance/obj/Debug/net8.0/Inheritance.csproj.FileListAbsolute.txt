@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/bin/Debug/net8.0/Inheritance
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll

@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/bin/Debug/net8.0/StringRep
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/bin/Debug/net8.0/StringRep.deps.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/bin/Debug/net8.0/StringRep.runtimeconfig.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/bin/Debug/net8.0/StringRep.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/bin/Debug/net8.0/StringRep.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net8.0/StringRep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net8.0/StringRep.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net8.0/StringRep.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net8.0/StringRep.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net8.0/StringRep.sourcelink.json
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net8.0/StringRep.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net8.0/refint/StringRep.dll
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net8.0/StringRep.pdb
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net8.0/StringRep.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net8.0/ref/StringRep.dll
